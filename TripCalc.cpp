@@ -1,6 +1,6 @@
 
 // TripCalc.cpp
-// A simple C++ program to calculate mileage, trip distance, and fuel expense.
+// A C++ program to calculate mileage, trip distance, and fuel expense.
 
 #include <iostream>
 using namespace std;
@@ -66,6 +66,9 @@ int main() {
             cout << "\n❌ Invalid choice. Please enter 1, 2, or 3." << endl;
     }
 
-    cout << "\n💖 Thank you for using TripCalc! Safe travels, Devu! 💖\n";
+    cout << "\n💖 Thank you for using TripCalc! Safe journey, rav3N 💖\n";
     return 0;
 }
+
+
+//CreatedWithLoveBy: rav3N🧛‍♀️ 
